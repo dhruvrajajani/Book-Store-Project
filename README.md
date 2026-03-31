@@ -1,7 +1,8 @@
 # Book-Store-Project
 
-for badge
-one more change
-second change
-third change
-forth change
+
+
+This is a git assignment project.
+
+
+
